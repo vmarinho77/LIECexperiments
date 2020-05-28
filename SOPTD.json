@@ -1,0 +1,21 @@
+[
+  {
+    "Sample_time": 0.1,
+    "Samples": 500,
+    "Iterations": 100,
+    "numG": 1,
+    "denG": [1, 2, 1],
+    "Noise_var": 0.001,
+    "Tau_dG": 1,
+    "Kp_initial": 0.5,
+    "Ki_initial": 0.3333,
+    "Am": 4,
+    "Tau_d": 2,
+    "Ref_type": "square",
+    "Ref_amplitude": 5,
+    "Ref_period": 250,
+    "Iterative_method": 2,
+    "Initial_condition": 0.3
+  }
+
+]
